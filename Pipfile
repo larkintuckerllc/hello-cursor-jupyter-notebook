@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 ipykernel = "==6.29.5"
+jupytext = "*"
 
 [dev-packages]
 
